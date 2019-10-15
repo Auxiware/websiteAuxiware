@@ -1,0 +1,110 @@
+
+#home-bg-1{
+  position: absolute;
+  top: 17px;
+  left: 100px;
+  box-shadow: 0px 12px 25px #0000005c;
+  border-radius: 10px 10px 10px 10px;
+}
+
+#home-titulo-1{
+  font-family: Google Sans;
+  position: absolute;
+  color: white;
+}
+
+#home-titulo-2{
+  font-family: Google Sans;
+  position: absolute;
+  font-size: 19px;
+}
+
+#home-btt{
+  position: absolute;
+  margin-top: 395px;
+  margin-left: 44px;
+  padding: 14px 16px 12px 16px;
+  font-family: Google Sans;
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 17px;
+  border-radius: 40px 40px 40px 40px;
+  background-image: linear-gradient(-90deg, #2751D9, #612DDA);
+  box-shadow: 0px 8px 50px #0000005c;
+}
+
+#his-titulo-1{
+  font-family: Google Sans;
+  position: absolute;
+  color: white;
+}
+
+#his-titulo-2{
+  font-family: Google Sans;
+  position: absolute;
+  color: white;
+}
+
+#his-text-1{
+  font-family: Google Sans;
+  position: absolute;
+  color: white;
+  letter-spacing: 1px;
+}
+
+#his-text-2{
+  font-family: Google Sans;
+  position: absolute;
+  color: #ffffff47;
+  letter-spacing: 1px;
+}
+
+#his-text-3{
+  font-family: Google Sans;
+  position: absolute;
+  color: transparent;
+}
+
+#his-fotos{
+  max-width: 268px;
+  width: 100%;
+  border-radius: 5px 5px 5px 5px;
+}
+
+#sobre-perfil{
+  position: absolute;
+  left: 630px; top: 70px;
+  max-width: 280px;
+  border-radius: 280px 280px 280px 280px;
+}
+
+#contato{
+  font-family: Google Sans;
+  position: absolute;
+  left: 150px;
+  top: 130px;
+  font-size: 13px;
+}
+
+
+
+li{
+  display: inline;
+  color: white;
+}
+
+li a:link{
+  padding: 10px 20px 10px 20px;
+  font-family: Google Sans;
+  color: white;
+}
+
+li a:hover{
+  padding: 10px 20px 10px 20px;
+  height: 100px;
+  color: #212D7F;
+}
+
+li a:visited{
+
+}

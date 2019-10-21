@@ -1,3 +1,20 @@
+.background-site{
+  background-image: linear-gradient(red, yellow);
+  background-size: auto 483px;
+  background-repeat: repeat-x;
+}
+
+.background-logo{
+  position: absolute;
+  width: 2244.62px;
+  height: 483.32px;
+  left: -423.65px;
+  top: 50.28px;
+
+  background: red;
+  transform: rotate(-8deg);
+}
+
 .background-missao{
 
   position: absolute;
